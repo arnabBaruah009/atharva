@@ -2974,6 +2974,7 @@ textarea.w-select {
   }
 
   .menu-close-div-tab {
+    background-image: url("./image/menu-close-hori.png");
     width: 768px;
     height: 63px;
     position: relative;
