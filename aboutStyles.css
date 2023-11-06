@@ -4078,6 +4078,10 @@ textarea.w-select {
     justify-content: space-between;
     display: grid;
   }
+
+  .image-11 {
+    display: none;
+  }
 }
 
 #w-node-c904c9de-43c8-1bf3-b3ca-7672c5d89ac4-b35d2865,

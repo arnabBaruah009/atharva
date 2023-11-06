@@ -3514,6 +3514,10 @@ textarea.w-select {
     justify-content: center;
     justify-items: center;
   }
+
+  .image-11 {
+    display: none;
+  }
 }
 
 #w-node-_5fcb7ee5-1b35-66db-fd49-aa1666752012-762315ca,

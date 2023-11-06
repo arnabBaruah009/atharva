@@ -2972,16 +2972,14 @@ textarea.w-select {
   }
 
   .menu-close-div-tab {
-    background-image: url("./image/menuClose2.png");
-    object-fit: contain;
     width: 768px;
     height: 63px;
     position: relative;
   }
 
   .menu-close-btn-tab {
-    /* grid-column-gap: 7px;
-    grid-row-gap: 7px; */
+    grid-column-gap: 7px;
+    grid-row-gap: 7px;
     cursor: pointer;
     flex-direction: row;
     justify-content: center;
@@ -2990,7 +2988,7 @@ textarea.w-select {
     top: auto;
     bottom: 24%;
     left: auto;
-    right: 5%;
+    right: 2%;
   }
 
   .image-5 {
@@ -3031,6 +3029,10 @@ textarea.w-select {
 }
 
 @media screen and (max-width: 479px) {
+  .image-11 {
+    display: none;
+  }
+
   .logo-image {
     width: 50px;
     height: 42.2px;
@@ -3169,10 +3171,6 @@ textarea.w-select {
     color: #ffe4cc;
   }
 
-  .temp{
-    height: 1px;
-  }
-
   .menu-tab-tab {
     height: 83px;
   }
@@ -3234,6 +3232,10 @@ textarea.w-select {
   .text-block-8 {
     font-size: 12px;
     line-height: 16.2px;
+  }
+
+  .image-11 {
+    display: none;
   }
 }
 

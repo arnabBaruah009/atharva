@@ -3229,7 +3229,6 @@ textarea.w-select {
   }
 
   .menu-close-div-tab {
-    background-image: url("./image/menuClose2.png");
     width: 768px;
     height: 63px;
     position: relative;
@@ -3610,6 +3609,10 @@ textarea.w-select {
   .text-block-12 {
     font-size: 14px;
     line-height: 18.9px;
+  }
+
+  .image-11 {
+    display: none;
   }
 }
 
