@@ -284,9 +284,9 @@ img {
   display: inline-block;
 }
 
-html.w-mod-touch * {
+/* html.w-mod-touch * {
   background-attachment: scroll !important;
-}
+} */
 
 .w-block {
   display: block;
@@ -2973,14 +2973,15 @@ textarea.w-select {
 
   .menu-close-div-tab {
     background-image: url("./image/menuClose2.png");
+    object-fit: contain;
     width: 768px;
     height: 63px;
     position: relative;
   }
 
   .menu-close-btn-tab {
-    grid-column-gap: 7px;
-    grid-row-gap: 7px;
+    /* grid-column-gap: 7px;
+    grid-row-gap: 7px; */
     cursor: pointer;
     flex-direction: row;
     justify-content: center;
@@ -2989,7 +2990,7 @@ textarea.w-select {
     top: auto;
     bottom: 24%;
     left: auto;
-    right: 2%;
+    right: 5%;
   }
 
   .image-5 {
@@ -3166,6 +3167,10 @@ textarea.w-select {
 
   .social-media-icons {
     color: #ffe4cc;
+  }
+
+  .temp{
+    height: 1px;
   }
 
   .menu-tab-tab {
