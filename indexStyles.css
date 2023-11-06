@@ -2466,7 +2466,7 @@ textarea.w-select {
 .project-title {
   margin-top: 0;
   margin-bottom: 0;
-  font-family: Argesta Text, sans-serif;
+  font-family: Argesta Display, sans-serif;
   font-size: 48px;
   font-weight: 400;
   line-height: 48px;
@@ -2487,7 +2487,7 @@ textarea.w-select {
 .button-2 {
   color: #101217;
   background-color: #d9d9d9;
-  font-family: Argesta Text, sans-serif;
+  font-family: Argesta Display, sans-serif;
   font-size: 20px;
 }
 
@@ -2523,7 +2523,7 @@ textarea.w-select {
 
 .button-text {
   color: #101217;
-  font-family: Argesta Text, sans-serif;
+  font-family: Argesta Display, sans-serif;
   font-size: 20px;
 }
 
@@ -2611,7 +2611,7 @@ textarea.w-select {
   width: 213px;
   height: 768px;
   color: #ffe4cc;
-  font-family: Argesta Text, sans-serif;
+  font-family: Argesta Display, sans-serif;
   font-size: 36px;
   line-height: 36px;
   text-decoration: none;
@@ -2774,7 +2774,7 @@ textarea.w-select {
 .heading-2 {
   color: #ffe4cc;
   margin-bottom: 0;
-  font-family: Argesta Text, sans-serif;
+  font-family: Argesta Display, sans-serif;
   font-size: 48px;
   font-weight: 400;
   line-height: 48px;
@@ -2968,7 +2968,7 @@ textarea.w-select {
   .text-block-6 {
     color: #ffe4cc;
     text-align: center;
-    font-family: Argesta Text, sans-serif;
+    font-family: Argesta Display, sans-serif;
     font-size: 36px;
     line-height: 36px;
   }
