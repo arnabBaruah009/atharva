@@ -3436,7 +3436,7 @@ textarea.w-select {
 
   .menu-div-tab {
     z-index: 2;
-    background-color: #000;
+    background-color: #101217;
     flex-direction: column;
     display: flex;
     position: absolute;
@@ -3469,7 +3469,7 @@ textarea.w-select {
   }
 
   .menu-close-div-tab {
-    background-image: url("./image/menu-close-hori.png");
+    background-image: url("./image/menuClose2.png");
     width: 768px;
     height: 63px;
     position: relative;
