@@ -3469,7 +3469,6 @@ textarea.w-select {
   }
 
   .menu-close-div-tab {
-    background-image: url("./image/menuClose2.png");
     width: 768px;
     height: 63px;
     position: relative;
@@ -4077,10 +4076,6 @@ textarea.w-select {
     grid-auto-columns: 1fr;
     justify-content: space-between;
     display: grid;
-  }
-
-  .image-11 {
-    display: none;
   }
 }
 

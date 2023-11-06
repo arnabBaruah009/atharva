@@ -3029,10 +3029,6 @@ textarea.w-select {
 }
 
 @media screen and (max-width: 479px) {
-  .image-11 {
-    display: none;
-  }
-
   .logo-image {
     width: 50px;
     height: 42.2px;
