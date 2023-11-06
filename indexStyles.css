@@ -2344,7 +2344,7 @@ textarea.w-select {
 }
 
 .hero-title {
-  font-family: Argesta Text, sans-serif;
+  font-family: Argesta Headline, sans-serif;
   font-size: 64px;
   font-weight: 400;
   line-height: 64px;
@@ -2590,8 +2590,9 @@ textarea.w-select {
 
 .menu-div {
   z-index: 2;
-  height: 768px;
-  background-color: #000;
+  height: 100vh;
+  width: 100vw;
+  background-color: #101217;
   flex-direction: row-reverse;
   display: flex;
   position: absolute;

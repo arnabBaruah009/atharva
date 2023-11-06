@@ -10518,7 +10518,7 @@ Webflow.require("ix2").init({
           autoStopEventId: "e-6",
         },
       },
-      mediaQueries: ["main", "medium", "small", "tiny"],
+      mediaQueries: ["main"],
       target: {
         selector: ".project-list-item",
         originalId:
@@ -11001,8 +11001,8 @@ Webflow.require("ix2").init({
                   selector: ".menu-div",
                   selectorGuids: ["3acf462c-47ab-398a-a32e-322340f2cc3a"],
                 },
-                xValue: 950,
-                xUnit: "px",
+                xValue: 100,
+                xUnit: "vw",
                 yUnit: "PX",
                 zUnit: "PX",
               },
@@ -11034,13 +11034,13 @@ Webflow.require("ix2").init({
               config: {
                 delay: 0,
                 easing: "easeInOut",
-                duration: 350,
+                duration: 500,
                 target: {
                   selector: ".menu-div",
                   selectorGuids: ["3acf462c-47ab-398a-a32e-322340f2cc3a"],
                 },
                 xValue: 0,
-                xUnit: "px",
+                xUnit: "vw",
                 yUnit: "PX",
                 zUnit: "PX",
               },
@@ -11080,13 +11080,13 @@ Webflow.require("ix2").init({
               config: {
                 delay: 0,
                 easing: "easeInOut",
-                duration: 350,
+                duration: 500,
                 target: {
                   selector: ".menu-div",
                   selectorGuids: ["3acf462c-47ab-398a-a32e-322340f2cc3a"],
                 },
-                xValue: 950,
-                xUnit: "px",
+                xValue: 100,
+                xUnit: "vw",
                 yUnit: "PX",
                 zUnit: "PX",
               },
