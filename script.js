@@ -11103,7 +11103,7 @@ Webflow.require("ix2").init({
                   selector: ".menu-div-tab",
                   selectorGuids: ["27b016a2-cccd-8dbd-9659-e73442c76176"],
                 },
-                yValue: -870,
+                yValue: -885,
                 xUnit: "PX",
                 yUnit: "px",
                 zUnit: "PX",
