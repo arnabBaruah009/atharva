@@ -2757,6 +2757,12 @@ textarea.w-select {
   background-size: cover;
 }
 
+.work-list-item.workitem9 {
+  background-image: url("./image/womenrise.png");
+  background-position: 0 0;
+  background-size: cover;
+}
+
 .work-title-div {
   width: 65%;
   position: absolute;
