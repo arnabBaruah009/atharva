@@ -2979,6 +2979,11 @@ textarea.w-select {
     position: relative;
   }
 
+  .bug-fix{
+    height: 50px;
+    background-color: #101217;
+  }
+
   .menu-close-btn-tab {
     grid-column-gap: 7px;
     grid-row-gap: 7px;
@@ -3171,7 +3176,7 @@ textarea.w-select {
   }
 
   .menu-tab-tab {
-    height: 83px;
+    height: 104.5px;
   }
 
   .text-block-6 {
