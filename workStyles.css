@@ -2709,50 +2709,50 @@ textarea.w-select {
 }
 
 .work-list-item.workitem1 {
-  background-image: url("https://assets-global.website-files.com/6541f253373defee4a8b3733/6546414888b2f38127214a47_workimage1.png");
+  background-image: url("./image/workimage1.png");
   background-position: 0 0;
   background-size: cover;
   position: relative;
 }
 
 .work-list-item.workitem2 {
-  background-image: url("https://assets-global.website-files.com/6541f253373defee4a8b3733/654641484c75805e8c32679d_workimage2.png");
+  background-image: url("./image/workimage2.png");
   background-position: 0 0;
   background-size: cover;
 }
 
 .work-list-item.workitem3 {
-  background-image: url("https://assets-global.website-files.com/6541f253373defee4a8b3733/65464147dc886185628fe3a3_workimage3.png");
+  background-image: url("./image/workimage3.png");
   background-position: 0 0;
   background-size: cover;
 }
 
 .work-list-item.workitem4 {
-  background-image: url("https://assets-global.website-files.com/6541f253373defee4a8b3733/654641479793300b3f4455c7_workimage4.png");
+  background-image: url("./image/workimage4.png");
   background-position: 0 0;
   background-size: cover;
 }
 
 .work-list-item.workitem5 {
-  background-image: url("https://assets-global.website-files.com/6541f253373defee4a8b3733/654641472e267b5cefc6c55e_workimage5.png");
+  background-image: url("./image/workimage5.png");
   background-position: 0 0;
   background-size: cover;
 }
 
 .work-list-item.workitem6 {
-  background-image: url("https://assets-global.website-files.com/6541f253373defee4a8b3733/654641475fd8fa615590c1a8_workimage6.png");
+  background-image: url("./image/workimage6.png");
   background-position: 0 0;
   background-size: cover;
 }
 
 .work-list-item.workitem7 {
-  background-image: url("https://assets-global.website-files.com/6541f253373defee4a8b3733/6546414768f8ee13874a06c5_workimage7.png");
+  background-image: url("./image/workimage7.png");
   background-position: 0 0;
   background-size: cover;
 }
 
 .work-list-item.workitem8 {
-  background-image: url("https://assets-global.website-files.com/6541f253373defee4a8b3733/65464147f69dd5d112f8c1e5_workimage8.png");
+  background-image: url("./image/workimage8.png");
   background-position: 0 0;
   background-size: cover;
 }
@@ -2768,12 +2768,6 @@ textarea.w-select {
   position: absolute;
   top: 259px;
   left: 58px;
-}
-
-.work-title-div.workitem1 {
-  background-image: url("https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg");
-  background-position: 0 0;
-  background-size: auto;
 }
 
 .heading-2 {
