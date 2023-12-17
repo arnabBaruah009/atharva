@@ -3282,7 +3282,7 @@ textarea.w-select {
 }
 @font-face {
   font-family: "Satoshi";
-  src: url("https://uploads-ssl.webflow.com/6541f253373defee4a8b3733/65428057515573e976434ab9_Satoshi-MediumItalic.otf")
+  src: url("./fonts/Satoshi-MediumItalic.otf")
     format("opentype");
   font-weight: 500;
   font-style: italic;
@@ -3290,7 +3290,7 @@ textarea.w-select {
 }
 @font-face {
   font-family: "Satoshi";
-  src: url("https://uploads-ssl.webflow.com/6541f253373defee4a8b3733/65428057411f09daf8389e33_Satoshi-Italic.otf")
+  src: url("./fonts/Satoshi-Italic.otf")
     format("opentype");
   font-weight: 400;
   font-style: italic;
@@ -3298,7 +3298,7 @@ textarea.w-select {
 }
 @font-face {
   font-family: "Satoshi";
-  src: url("https://uploads-ssl.webflow.com/6541f253373defee4a8b3733/654280574467ef6142db09c0_Satoshi-LightItalic.otf")
+  src: url("./fonts/Satoshi-LightItalic.otf")
     format("opentype");
   font-weight: 300;
   font-style: italic;
@@ -3306,7 +3306,7 @@ textarea.w-select {
 }
 @font-face {
   font-family: "Satoshi";
-  src: url("https://uploads-ssl.webflow.com/6541f253373defee4a8b3733/654280573a9d943b9729684e_Satoshi-Bold.otf")
+  src: url("./fonts/Satoshi-Bold.otf")
     format("opentype");
   font-weight: 700;
   font-style: normal;
@@ -3314,7 +3314,7 @@ textarea.w-select {
 }
 @font-face {
   font-family: "Satoshi";
-  src: url("https://uploads-ssl.webflow.com/6541f253373defee4a8b3733/6542805782571ea230dff619_Satoshi-BoldItalic.otf")
+  src: url("./fonts/Satoshi-BoldItalic.otf")
     format("opentype");
   font-weight: 700;
   font-style: italic;
@@ -3322,7 +3322,7 @@ textarea.w-select {
 }
 @font-face {
   font-family: "Satoshi";
-  src: url("https://uploads-ssl.webflow.com/6541f253373defee4a8b3733/65428057d0fb173e87eb598e_Satoshi-BlackItalic.otf")
+  src: url("./fonts/Satoshi-BlackItalic.otf")
     format("opentype");
   font-weight: 900;
   font-style: italic;
@@ -3330,7 +3330,7 @@ textarea.w-select {
 }
 @font-face {
   font-family: "Satoshi";
-  src: url("https://uploads-ssl.webflow.com/6541f253373defee4a8b3733/65428057a3496e9497e6046d_Satoshi-Light.otf")
+  src: url("./fonts/Satoshi-Light.otf")
     format("opentype");
   font-weight: 300;
   font-style: normal;
@@ -3338,7 +3338,7 @@ textarea.w-select {
 }
 @font-face {
   font-family: "Satoshi";
-  src: url("https://uploads-ssl.webflow.com/6541f253373defee4a8b3733/65428057dc6a2e72eb62daad_Satoshi-Black.otf")
+  src: url("./fonts/Satoshi-Black.otf")
     format("opentype");
   font-weight: 900;
   font-style: normal;
@@ -3346,9 +3346,7 @@ textarea.w-select {
 }
 @font-face {
   font-family: "Satoshi";
-  src: url("https://uploads-ssl.webflow.com/6541f253373defee4a8b3733/654280576664a9b15a76927c_Satoshi-Medium.otf")
-      format("opentype"),
-    url("https://uploads-ssl.webflow.com/6541f253373defee4a8b3733/654280576664a9b15a76927c_Satoshi-Medium.otf")
+  src: url("./fonts/Satoshi-Medium.otf")
       format("opentype");
   font-weight: 500;
   font-style: normal;
@@ -3356,7 +3354,7 @@ textarea.w-select {
 }
 @font-face {
   font-family: "Satoshi";
-  src: url("https://uploads-ssl.webflow.com/6541f253373defee4a8b3733/65428058a2d97373d5cfefaf_Satoshi-Regular.otf")
+  src: url("./fonts/Satoshi-Regular.otf")
     format("opentype");
   font-weight: 400;
   font-style: normal;
@@ -3364,7 +3362,7 @@ textarea.w-select {
 }
 @font-face {
   font-family: "Argesta Text";
-  src: url("https://uploads-ssl.webflow.com/6541f253373defee4a8b3733/654280579788a8f747e2496c_Argesta%20Text%20Italic.otf")
+  src: url("./fonts/Argesta\ Text\ Italic.otf")
     format("opentype");
   font-weight: 400;
   font-style: italic;
@@ -3372,7 +3370,7 @@ textarea.w-select {
 }
 @font-face {
   font-family: "Argesta Text";
-  src: url("https://uploads-ssl.webflow.com/6541f253373defee4a8b3733/6542846f97f4715765b16641_Argesta%20Text%20Bold.otf")
+  src: url("./fonts/Argesta\ Text\ Bold.otf")
     format("opentype");
   font-weight: 700;
   font-style: normal;
@@ -3380,7 +3378,7 @@ textarea.w-select {
 }
 @font-face {
   font-family: "Argesta Hairline";
-  src: url("https://uploads-ssl.webflow.com/6541f253373defee4a8b3733/6542846fb01381de73068b5b_Argesta%20Hairline.otf")
+  src: url("./fonts/Argesta\ Hairline.otf")
     format("opentype");
   font-weight: 400;
   font-style: normal;
@@ -3388,7 +3386,7 @@ textarea.w-select {
 }
 @font-face {
   font-family: "Argesta Text";
-  src: url("https://uploads-ssl.webflow.com/6541f253373defee4a8b3733/6542846fbaa2602445064847_Argesta%20Text.otf")
+  src: url("./fonts/Argesta\ Text.otf")
     format("opentype");
   font-weight: 400;
   font-style: normal;
@@ -3396,7 +3394,7 @@ textarea.w-select {
 }
 @font-face {
   font-family: "Argesta Display";
-  src: url("https://uploads-ssl.webflow.com/6541f253373defee4a8b3733/6542846fb01381de73068b68_Argesta%20Display.otf")
+  src: url("./fonts/Argesta\ Display.otf")
     format("opentype");
   font-weight: 400;
   font-style: normal;
@@ -3404,7 +3402,7 @@ textarea.w-select {
 }
 @font-face {
   font-family: "Argesta Hairline";
-  src: url("https://uploads-ssl.webflow.com/6541f253373defee4a8b3733/6542846fbaa2602445064856_Argesta%20Hairline%20Italic.otf")
+  src: url("./fonts/Argesta\ Hairline\ Italic.otf")
     format("opentype");
   font-weight: 400;
   font-style: italic;
@@ -3412,7 +3410,7 @@ textarea.w-select {
 }
 @font-face {
   font-family: "Argesta Headline";
-  src: url("https://uploads-ssl.webflow.com/6541f253373defee4a8b3733/6542846f92439bf7d1d5cbde_Argesta%20Headline.otf")
+  src: url("./fonts/Argesta\ Headline.otf")
     format("opentype");
   font-weight: 400;
   font-style: normal;
@@ -3420,7 +3418,7 @@ textarea.w-select {
 }
 @font-face {
   font-family: "Argesta Headline";
-  src: url("https://uploads-ssl.webflow.com/6541f253373defee4a8b3733/6542846f1b0c81a83f2a472a_Argesta%20Headline%20Italic.otf")
+  src: url("./fonts/Argesta\ Headline\ Italic.otf")
     format("opentype");
   font-weight: 400;
   font-style: italic;
@@ -3428,7 +3426,7 @@ textarea.w-select {
 }
 @font-face {
   font-family: "Argesta Display";
-  src: url("https://uploads-ssl.webflow.com/6541f253373defee4a8b3733/6542846f41af6fd916cc1a53_Argesta%20Display%20Italic.otf")
+  src: url("./fonts/Argesta\ Display\ Italic.otf")
     format("opentype");
   font-weight: 400;
   font-style: italic;
