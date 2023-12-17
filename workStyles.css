@@ -2762,6 +2762,11 @@ textarea.w-select {
   background-position: 0 0;
   background-size: cover;
 }
+.work-list-item.workitem10 {
+  background-image: url("./image/pawmate.png");
+  background-position: 0 0;
+  background-size: cover;
+}
 
 .work-title-div {
   width: 65%;
